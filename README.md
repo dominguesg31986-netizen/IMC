@@ -14,3 +14,6 @@ JAVASCRIPT (vanilla JS)
 ## Demonstração on line
 
 Acesse https://dominguesg31986-netizen.github.io/IMC/
+
+## Licença
+A licença deste software é **MIT**
